@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hi, this is BTSwitch!</string>
+    <string name="app_name">BTSwitch</string>
+    <string name="bt_connect">DISCONNECTED</string>
+    <string name="bt_disconnect">CONNECTED</string>
+    <string name="bt_not_available">Sorry, you need a device with Bluetooth for this app</string>
+    <string name="bt_not_enabled">Please enable Bluetooth before running this app</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="lbl_status_leds">Status LEDs</string>
+    <string name="toast_unable_to_connect">Unable to connect to device</string>
+    <string name="toast_bluetooth_not_available">Bluetooth is not available</string>
+    <string name="dialog_connecting">Connecting, please wait...</string>
+    <string name="toast_bluetooth_not_enabled">You have to enable Bluetooth for this app</string>
+
+</resources>

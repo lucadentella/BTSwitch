@@ -1,0 +1,22 @@
+R1	1Kohm	1/4W
+R2	1Kohm	1/4W
+R3	10Kohm	1/4W
+R4	2.2Kohm	1/4W
+
+C1	1000uF	16V 	electrolitic
+C2	10uF	16V 	electrolitic
+C3	100nF		ceramic
+C4	10uF	16V 	electrolitic
+
+D1	1N4004
+B1	Rectifier
+
+T1	2N2222
+
+IC1	7805
+IC2	LF33CV
+U1	Arduino Mini Pro 5V
+WT11	Bluegiga WT11 module
+
+K1	SPDT Relay 5V
+TR1	Transformer 220V - 9V 4VA
